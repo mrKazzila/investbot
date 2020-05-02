@@ -8,7 +8,7 @@
 
 <ul>
     <li>
-    Share price chart for the last 3 years (available from version 2)
+    Getting share price chart for the last 3 years (available from version 2)
     </li>
     <li>
     Getting information about net income for the quarter (available from version 2)
