@@ -9,13 +9,22 @@
 <ul>
     <li>
     Getting share price chart for the last 3 years (available from version 2)
-    </li>
+    </li><br/>
+    <p align="center">
+	<img src="../amazon_chart.png" title="Amazon chart"/>
+    </p><br/>
     <li>
     Getting information about net income for the quarter (available from version 2)
-    </li>
+    </li><br/>
+    <p align="center">
+	<img src="../Net income.png" title="Amazon net income"/>
+    </p><br/>
     <li>
     Get information about multiplier values for the entered Ticker (available from version 1)
-    </li>
+    </li><br/>
+    <p align="center">
+	<img src="../Financials information.png" title="Amazon financials information"/>
+    </p>
 </ul>
 
 <h2 align="center">In developing used:</h2>
@@ -28,7 +37,8 @@
 
 <h4>Contacts:</h4>
 
+[Linkedin](https://www.linkedin.com/in/kazzila)<br/>
 [Telegram](https://t.me/kazzila)<br/>
 [VK](https://vk.com/kazzila)<br/>
-[Linkedin](https://www.linkedin.com/in/kazzila)<br/>
+
 [Investbot](http://t.me/Rationalinvest_bot)

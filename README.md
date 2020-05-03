@@ -10,13 +10,22 @@
 <ul>
     <li>
     Увидеть график цены акции за последние 3 года (доступно с версии 2)
-    </li>
+    </li><br/>
+    <p align="center">
+	<img src="readme/amazon_chart.png" title="Amazon chart"/>
+    </p><br/>
     <li>
     Получение информации о чистом доходе за квартал (доступно с версии 2)
-    </li>
+    </li><br/>
+    <p align="center">
+	<img src="readme/Net income.png" title="Amazon net income"/>
+    </p><br/>
     <li>
     Получить информацию о значениях мультипликаторов по введенному тикеру (доступно с версии 1)
-    </li>
+    </li><br/>
+    <p align="center">
+	<img src="readme/Financials information.png" title="Amazon financials information"/>
+    </p>
 </ul>
 
 <h2 align="center">В разработке применяется:</h2>
@@ -30,9 +39,10 @@
 
 <h4>Контакты для связи:</h4>
 
+[Linkedin](https://www.linkedin.com/in/kazzila)<br/>
 [Telegram](https://t.me/kazzila)<br/>
 [VK](https://vk.com/kazzila)<br/>
-[Linkedin](https://www.linkedin.com/in/kazzila)<br/>
+
 [Investbot](http://t.me/Rationalinvest_bot)
 
 
