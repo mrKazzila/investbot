@@ -9,7 +9,7 @@ Jinja2==2.11.1
 jsonschema==3.2.0
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
-matplotlib==3.2.1
+matplotlib==3.4.3
 multitasking==0.0.9
 pyparsing==2.4.7
 pyrsistent==0.16.0
